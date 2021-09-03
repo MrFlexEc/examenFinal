@@ -1,0 +1,5 @@
+C:\Users\Mr Flex\source\repos\examenFinal\examenFinal\obj\Debug\netcoreapp3.1\examenFinal.csproj.AssemblyReference.cache
+C:\Users\Mr Flex\source\repos\examenFinal\examenFinal\obj\Debug\netcoreapp3.1\examenFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Flex\source\repos\examenFinal\examenFinal\obj\Debug\netcoreapp3.1\examenFinal.AssemblyInfoInputs.cache
+C:\Users\Mr Flex\source\repos\examenFinal\examenFinal\obj\Debug\netcoreapp3.1\examenFinal.AssemblyInfo.cs
+C:\Users\Mr Flex\source\repos\examenFinal\examenFinal\obj\Debug\netcoreapp3.1\examenFinal.csproj.CoreCompileInputs.cache
